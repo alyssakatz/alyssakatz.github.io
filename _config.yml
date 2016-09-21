@@ -1,23 +1,22 @@
 # Site settings
-name: Matthew Wynn
-description: "m_wynn"
-url: "http://matthewwynn.com"
+name: Alyssa Garguilo
+description:
+url: "http://alyssagarguilo.com"
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-github_username:  m-wynn
-linkedin_username: wynnmatthew
-facebook_username: matthew.wynn0
-email: matthew@matthewwynn.com
-public_key_url: "http://matthewwynn.com/publickey.txt"
+github_username:  alyssagarguilo
+linkedin_username: alyssa-garguilo
+facebook_username: alyssa.garguilo
+email: alyssa@alyssagarguilo.com
 
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars0.githubusercontent.com/u/2483388"
+avatar_img_path: "https://avatars2.githubusercontent.com/u/15315741"
 
 
 front_img: yes
