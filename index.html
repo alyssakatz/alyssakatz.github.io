@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Matthew Wynn
+title: Alyssa Garguilo
 ---
 <!DOCTYPE html>
 <html>
@@ -34,6 +34,10 @@ title: Matthew Wynn
                 <ul>
                     {% if site.github_username %}
                     <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
+                    {% endif %}
+                    
+                    {% if site.resume_url %}
+                    <li><a class="fa fa-2x fa-file-o" href="{{ site.resume_url }}"><span class="description">Resume</span></a></li>
                     {% endif %}
 
                     {% if site.codepen_username %}
