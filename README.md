@@ -1,5 +1,3 @@
-# Alyssa Garguilo
-
 ## Credits
 
 Background image by <a href="http://www.blakemcintyre.com/photo-portfolio/g6nv0zk4l9krmctbflde64qjb8s5nd">Blake McIntyre</a>.
