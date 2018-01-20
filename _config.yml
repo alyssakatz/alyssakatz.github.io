@@ -25,11 +25,14 @@ front_img_path: "imgs/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 
-favicon_img: yes
-favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
-
-
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Manifest settings
+manifest_name: Alyssa Garguilo
+manifest_short_name: A. Garguilo
+manifest_lang: en
+manifest_background_color: fdfdfd
+manifest_theme_color: 2a7ae2
+manifest_display: standalone
