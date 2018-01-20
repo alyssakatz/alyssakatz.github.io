@@ -25,10 +25,8 @@ title: Alyssa Garguilo
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     </head>
     <body>
+	<div class="bg">
         <div class="content">
-            {% if site.front_img %}
-            <img src="{{ site.front_img_path }}" id="fullscreen" alt="">
-            {% endif %}
 
             {% if site.avatar %}
                 <img src="{{ site.avatar_img_path }}" id="avatar" alt="">
@@ -126,7 +124,7 @@ title: Alyssa Garguilo
                     <li><a class="fa fa-2x fa-facebook" href="https://facebook.com/{{ site.facebook_username }}"><span class="description">Facebook</span></a></li>
                     {% endif %}
                 </ul>
+	</div>
         </div>
-
     </body>
 </html>
