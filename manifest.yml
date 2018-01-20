@@ -9,6 +9,7 @@ permalink: manifest.json
     "background_color": "#{{ site.manifest_background_color }}",
     "theme_color": "#{{ site.manifest_theme_color }}",
     "display": "{{ site.manifest_display  }}",
+    "start_url": "{{ /?utm_source=homescreen }}",
     "icons": [
         {
             "src": "/android-chrome-192x192.png?v=vMO9nzE9PR",
