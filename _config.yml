@@ -1,15 +1,15 @@
 # Site settings
-name: Alyssa Garguilo
-description: Computer science honors student
-url: "http://alyssagarguilo.com"
+name: Alyssa Katz
+description: Software Engineer
+url: "http://alyssakatz.dev"
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  alyssagarguilo
-linkedin_username: alyssa-garguilo
+linkedin_username: alyssa-katz
 resume_url: https://drive.google.com/open?id=0By-BvTMJp8vYNWRWNVZ4M2RPZ1E
-email: alyssa@alyssagarguilo.com
+email: alyssa@alyssakatz.dev
 facebook_username: alyssa.garguilo
 
 
@@ -30,8 +30,8 @@ markdown: kramdown
 permalink: pretty
 
 # Manifest settings
-manifest_name: Alyssa Garguilo
-manifest_short_name: A. Garguilo
+manifest_name: Alyssa Katz
+manifest_short_name: A. Katz
 manifest_lang: en
 manifest_background_color: fdfdfd
 manifest_theme_color: 2a7ae2
